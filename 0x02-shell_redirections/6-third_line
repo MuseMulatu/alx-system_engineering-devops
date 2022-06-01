@@ -1,2 +1,2 @@
 #!/bin/bash
-Head -3 iacta
+Head -n 3 iacta | tail -n 1
